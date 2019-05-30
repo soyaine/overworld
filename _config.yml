@@ -1,14 +1,14 @@
 title: Octopod
-url: http://localhost:4000
+url: https://soyaine.github.io/overworld
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
-download_url: "http://your.fancy.hosting/episodes"
+download_url: "https://soyaine.github.io/overworld/episodes"
 subtitle: Static Site Podcast Publishing for Geeks
 description: My super duper cool podcast.
 author: Uncle Octopod
 
 ### author_url: This is the URL of a site owned by the author (see https://jsonfeed.org/version/1)
-author_url: "http://your.fancy.hosting/"
+author_url: "https://soyaine.github.io/overworld/"
 
 email: octopod@example.com
 keywords: [octopod, podcast, magic]
@@ -23,7 +23,7 @@ date_format: ordinal
 ### Rsync Deploy config: Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_host: user@host.org
 ssh_port: 22
-document_root: /path/to/your/htdocs/
+document_root: https://soyaine.github.io/overworld/
 rsync_delete: true
 
 ### Twiter config, optional
