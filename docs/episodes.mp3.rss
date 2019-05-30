@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://soyaine.github.io/overworld/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
     <description>My super duper cool podcast.
 </description>
-    <lastBuildDate>Thu, 30 May 2019 21:49:21 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2019 21:53:33 +0800</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
@@ -79,7 +79,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="https://soyaine.github.io/overworld/episodes/episode0.mp3" length="45750" type="audio/mpeg" />
+            <enclosure url="https://soyaine.github.io/overworld/episodes/episode0.mp3" length="10166898" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
             <itunes:summary></itunes:summary>
